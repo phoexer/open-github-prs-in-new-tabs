@@ -1,0 +1,6 @@
+{
+  "name": "Open Github PRs in new tabs",
+  "description": "Opens Github PRs in new tabs",
+  "version": "0.1",
+  "manifest_version": 3
+}
